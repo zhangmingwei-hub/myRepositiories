@@ -6,7 +6,7 @@ public interface testGit {
 	void m2();
 	void m5();
 public static void main(String[] args) {
-	int i=0;
+	int i=0; 
 	System.out.println("hello");
 	
 }
